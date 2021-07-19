@@ -1,8 +1,16 @@
 {
   "name": "reactjs-concepts-challenge",
+  "description": "🔥 Código de resolução do desafio de fundamentos, da trilha de React JS — Ignite",
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
+  "author": {
+    "name": "Matheus Felipe Zanin",
+    "email": "matt_z6@hotmail.com",
+    "url": "https://github.com/MattZ6"
+  },
+  "repository": "https://github.com/MattZ6/reactjs-concepts-challenge",
+  "bugs": "https://github.com/MattZ6/reactjs-concepts-challenge/issues",
   "scripts": {
     "dev": "webpack serve",
     "build": "cross-env NODE_ENV=production webpack",
