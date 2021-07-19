@@ -1,6 +1,6 @@
 <div align="center">
   <h1>
-    ⚔ Desafios — Ignite 🔥
+    ⚔ Desafio — Ignite 🔥
     <br/><br/>
     Conceitos do React
   </h1>
