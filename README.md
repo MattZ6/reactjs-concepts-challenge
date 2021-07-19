@@ -2,7 +2,7 @@
   <h1>
     ⚔ Desafios — Ignite 🔥
     <br/><br/>
-    Introdução ao SOLID e Documentação com Swagger
+    Conceitos do React
   </h1>
 
   > Repositório com o código de resolução do desafio **Conceitos do React** da trilha de React JS do bootcamp Ignite da Rocketseat.
