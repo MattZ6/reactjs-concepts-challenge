@@ -5,11 +5,11 @@
     Conceitos do React
   </h1>
 
-  > Repositório com o código de resolução do desafio **Conceitos do React** da trilha de React JS do bootcamp Ignite da Rocketseat.
+  > Repositório com o código de resolução do desafio **Conceitos do React**, da trilha de React JS do bootcamp Ignite da Rocketseat.
 </div>
 
 <div align="center">
-  <img style="border-radius: 6px;" src=".github/images/todo.jpg" alt="Lista de tarefas" title="Lista de tarefas" />
+  <img style="border-radius: 6px;" src=".github/images/todo.jpg" alt="📝 Tela principal da aplicação to.do, com a lista de tarefas do usuário" title="📝 Tela principal da aplicação to.do, com a lista de tarefas do usuário" />
 
   > <small>Lista de tarefas</small>
 </div>
@@ -22,7 +22,7 @@ Clone o repositório:
 git clone https://github.com/MattZ6/reactjs-concepts-challenge
 ```
 
-Adrente a pasta do projeto:
+Adentre a pasta do projeto:
 
 ```bash
 cd reactjs-concepts-challenge
@@ -42,9 +42,9 @@ Para executar a aplicação em ambiente de desenvolvimento (localmente):
 yarn dev
 ```
 
-## 🧪 Testes
+## 🧪 Testando
 
-Para executar os testes:
+Para "rodar" os testes, execute:
 
 ```bash
 yarn test
